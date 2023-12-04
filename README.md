@@ -5,7 +5,7 @@
 + [logo](http://logo.veridock.com)
 + [roadmap](http://roadmap.veridock.com)
 + [identity](http://identity.veridock.com)
-+ [contriubtion](http://contriubtion.veridock.com)
+
 
 ---
 
